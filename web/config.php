@@ -23,9 +23,9 @@
 		|
 		*/
 
-		'secret' => 'CHANGE-THIS',
+		'secret' => 'ruststats1',
 
-		'steamApiKey' => '',
+		'steamApiKey' => '76561197962186786',
 
 
 		/*
