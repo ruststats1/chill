@@ -48,9 +48,9 @@
 
 			'host' => 'localhost',
 
-			'user' => 'root',
+			'user' => 'ruststats1',
 
-			'password' => '',
+			'password' => 'Aa232323',
 
 			'name' => 'ruststats',
 
